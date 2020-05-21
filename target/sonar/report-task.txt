@@ -1,0 +1,5 @@
+projectKey=SoranTest:SonarTest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/SoranTest:SonarTest
+ceTaskId=AXI2hEaMJtZWPFtqCcDf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXI2hEaMJtZWPFtqCcDf
